@@ -1,0 +1,128 @@
+/*heading*/
+.heading {
+    display: flex;
+    background-color: #eebfc9;
+    justify-content: space-around;
+
+
+
+}
+
+.intro {
+    padding: 200px;
+}
+
+.head {
+    font-size: 50px;
+    font-weight: 100%;
+    color: #272727;
+
+}
+
+.para {
+    color: rgba(39, 39, 39, 0.60);
+}
+
+.btn-shop {
+    background-color: rgb(227, 106, 122);
+    padding: 10px 30px;
+    color: aliceblue;
+    border-radius: 5px;
+    border: none;
+}
+
+.intro-img {
+    width: 630px;
+    height: 800px;
+    flex-shrink: 0;
+    padding-bottom: 0px;
+}
+
+/*section*/
+.hot-deal {
+    display: flex;
+    justify-content: space-around;
+    background-color: #eebfc9;
+
+}
+
+.hot-text {
+    text-align: center;
+    padding: 200px;
+}
+
+.hot-head {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.off {
+    color: brown;
+}
+
+.hot-para {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+
+.btn-sign {
+    background-color: rgb(198, 36, 57);
+    padding: 10px 30px;
+    color: aliceblue;
+    border-radius: 5px;
+    border: none;
+}
+
+.photo {
+    width: 318px;
+    height: 420px;
+    padding: 100px 300px;
+}
+
+/*instagram*/
+.Instagram {
+    padding: 100px 250px;
+
+}
+
+.head-insta {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.para-insta {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.insta-photo {
+
+    width: 342px;
+    height: 396px;
+    display: flex;
+    gap: 20px;
+}
+
+/*latest deals*/
+
+.deal{
+    background-image: url();
+}
+.deal-head {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
