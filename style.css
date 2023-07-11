@@ -39,6 +39,75 @@
 }
 
 /*section*/
+/*bonus*/
+.bonus {
+    padding: 100px 200px;
+
+
+
+}
+
+.bonus-head {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.bonus-para {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.bonus-pic {
+    display: flex;
+    gap: 20px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+
+.bonus1 {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    
+}
+
+.bonus2 {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.bonus3 {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.bonus-line{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+
+
+
+
+/*deal*/
+
 .hot-deal {
     display: flex;
     justify-content: space-around;
@@ -125,7 +194,7 @@
     margin: 100px 250px;
     width: 1440px;
     height: 449px;
-    
+
 }
 
 .deal-head {
@@ -148,7 +217,7 @@
 }
 
 .email-sec {
-    
+
     text-align: center;
     margin-top: 20px;
 
