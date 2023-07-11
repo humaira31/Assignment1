@@ -41,7 +41,7 @@
 /*section*/
 /*bonus*/
 .bonus {
-    padding: 100px 200px;
+    padding: 50px 150px;
 
 
 
@@ -75,7 +75,7 @@
     height: 538px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    
+
 }
 
 .bonus2 {
@@ -92,16 +92,61 @@
     background: rgba(71, 125, 17, 0.15);
 }
 
-.bonus-line{
+.bonus-line {
     color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 24px;
-font-style: normal;
-font-weight: 700;
-line-height: 35px;
-text-decoration-line: underline;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
 }
+
+/*reg*/
+.registration-form {
+	background-image: url('flower-shop-assignment/Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px  0px 20px 0px ;
+    
+}
+.head-reg{
+	font-size: 30px;
+	text-align: center;
+	text-transform: upercase;
+    padding: 30px;
+	margin: 20px 30px;
+    color: #923131;
+}
+	
+	
+.btn-reg{
+    background-color: rgb(198, 36, 57);
+    padding: 10px 30px;
+    color: aliceblue;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.Registration{
+    display: block;
+    text-align: center;
+    
+
+}
+.reg{
+    width: 30%;
+    padding: 10px;
+    background: #FFF;
+    border-color: #fcfafb;
+    box-shadow: none;
+}
+
+
+
+
 
 
 
@@ -112,6 +157,7 @@ text-decoration-line: underline;
     display: flex;
     justify-content: space-around;
     background-color: #eebfc9;
+    margin-top: 100px;
 
 }
 
